@@ -1,0 +1,27 @@
+body {
+  background-color: antiquewhite;
+}
+h1,
+h2,
+p {
+  background-color: lightcoral;
+  color: black;
+  border: 3px solid rgb(231, 38, 231);
+}
+#id {
+  color: crimson;
+  margin: 0fr;
+  padding: 0px;
+}
+.tanu {
+  border-radius: 0pc;
+  background-color: hotpink;
+  border: 3px skyblue;
+}
+
+span {
+  display: block;
+}
+span {
+  background-color: darkorange;
+}
